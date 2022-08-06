@@ -319,6 +319,15 @@
   .home-page-wrapper .tech-wrapper-home .tech-all-posts {
     width: 100%;
   }
+  .home-page-wrapper .tech-wrapper-home .tech-all-posts .all-posts-wrapper-home .all-posts {
+    flex-direction: column;
+  }
+  .home-page-wrapper .tech-wrapper-home .tech-all-posts .all-posts-wrapper-home .all-posts .post-image, .home-page-wrapper .tech-wrapper-home .tech-all-posts .all-posts-wrapper-home .all-posts .side-content {
+    width: 100%;
+  }
+  .home-page-wrapper .tech-wrapper-home .tech-all-posts .all-posts-wrapper-home .all-posts .side-content {
+    margin-top: 7%;
+  }
   .home-page-wrapper .tech-wrapper-home .tech-recent-posts-home {
     width: 100%;
   }

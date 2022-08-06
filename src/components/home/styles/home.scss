@@ -374,6 +374,18 @@
 
             .tech-all-posts{
                 width:100%;
+
+                .all-posts-wrapper-home{
+                    .all-posts{
+                        flex-direction:column;
+                        .post-image,.side-content{
+                            width:100%;
+                        }
+                        .side-content{
+                            margin-top:7%;
+                        }
+                    }
+                }
             }
 
             .tech-recent-posts-home{
