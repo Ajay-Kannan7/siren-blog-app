@@ -313,6 +313,9 @@
     width: 100%;
     margin-top: 7%;
   }
+  .home-page-wrapper .sports-latest-wrapper .sports-latest .sports-latest-elements img {
+    width: 100%;
+  }
   .home-page-wrapper .tech-wrapper-home {
     flex-direction: column;
   }
@@ -339,5 +342,8 @@
     margin-top: 9%;
     border-bottom: 2px solid gray;
     padding-bottom: 5%;
+  }
+  .home-page-wrapper .fitness-wrapper .fitness-element-wrapper .fitness-elements img {
+    width: 100%;
   }
 }/*# sourceMappingURL=home.css.map */
